@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayanmohaa
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Preciousayanmohamed@gmail.com 
 - 😄 Pronouns: ...
